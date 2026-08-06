@@ -5,12 +5,12 @@
 1. Display cities having more than 2 students.
 
 2. Display cities where the average age is greater than 20.
+3. 
+4. Display cities where the maximum age is greater than 22.
 
-3. Display cities where the maximum age is greater than 22.
+5. Display cities where the minimum age is less than 20.
 
-4. Display cities where the minimum age is less than 20.
-
-5. Display cities where the total age is greater than 40.
+6. Display cities where the total age is greater than 40.
 
 ---
 
