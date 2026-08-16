@@ -1,6 +1,6 @@
 # SQL Common Table Expressions (CTEs)
 
-## What is a CTE?
+## What is a CTE??
 
 CTE stands for **Common Table Expression**.
 
