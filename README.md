@@ -19,6 +19,11 @@ SQL_Basics
 ├── 10_INDEXES
 ├── 11_CONSTRAINTS
 ├── 12_TRIGGERS
+├── 13_CTEs
+├── 14_WINDOW_FUNCTIONS
+├── 15_TRANSACTIONS
+├── 16_ADVANCED_PRACTICE
+├── 17_SQL_MINI_PROJECT
 ├── CheatSheets
 └── Practice_Queries
 ```
